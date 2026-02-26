@@ -1,16 +1,17 @@
-## Hi there 👋
+## Nurlan Isazade
 
-<!--
-**akmnurlan/akmnurlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD applicant in Cybersecurity and Machine Learning.
 
-Here are some ideas to get you started:
+### Research Interests
+- Behavioural anomaly detection
+- Concept drift
+- Extreme class imbalance
+- Change-point detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Project
+Latent Behavioural Anomaly Detection:
+https://github.com/akmnurlan/latent-behavioural-anomaly-detection
+
+### Publication
+Journal article under review:
+"Aggregate Cybercrime Statistics Contain Macroeconomic Signal?"
