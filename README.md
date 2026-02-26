@@ -9,9 +9,10 @@ PhD applicant in Cybersecurity and Machine Learning.
 - Change-point detection
 
 ### Current Project
-#### Latent Behavioural Anomaly Detection
+### Latent Behavioural Anomaly Detection
 
 Semi-supervised intrusion detection via latent regime change modeling under extreme imbalance.
+
 🔗 https://github.com/akmnurlan/latent-behavioural-anomaly-detection
 
 ### Publication
