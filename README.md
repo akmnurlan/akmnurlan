@@ -1,20 +1,55 @@
-## Nurlan Isazade
+# Nurlan Isazade
 
-PhD applicant in Cybersecurity and Machine Learning.
+PhD applicant in Cybersecurity & Machine Learning.  
+Research focus: behavioural anomaly detection under distribution shift.
 
-### Research Interests
-- Behavioural anomaly detection
-- Concept drift
-- Extreme class imbalance
-- Change-point detection
+---
 
-### Current Project
-### Latent Behavioural Anomaly Detection
+## Research Interests
 
-Semi-supervised intrusion detection via latent regime change modeling under extreme imbalance.
+- Behavioural anomaly detection  
+- Concept drift & distribution shift  
+- Extreme class imbalance  
+- Change-point detection  
+- Robust ML under non-stationarity  
 
-🔗 https://github.com/akmnurlan/latent-behavioural-anomaly-detection
+---
 
-### Publication
-Journal article under review:
-"Aggregate Cybercrime Statistics Contain Macroeconomic Signal?"
+## Current Research
+
+### Latent Behavioural Anomaly Detection  
+Semi-supervised intrusion detection via latent regime change modelling under extreme class imbalance and behavioural drift.  
+🔗 https://github.com/akmnurlan/latent-behavioural-anomaly-detection  
+
+### Concept Drift Detection (Rolling KS-Test)  
+Interpretable streaming drift detection using nonparametric statistical testing.  
+🔗 https://github.com/akmnurlan/concept-drift-detection  
+
+### Reproducible ML Experiments  
+Config-driven experimental framework for structured, deterministic ML evaluation.  
+🔗 https://github.com/akmnurlan/reproducible-ml-experiments  
+
+---
+
+## Publications
+
+**Journal article (under review)**  
+*Aggregate Cybercrime Statistics Contain Macroeconomic Signal?*
+
+---
+
+## Research Direction
+
+My work investigates robust anomaly detection under distributional shift, combining:
+
+- Latent representation learning  
+- Statistical drift detection  
+- Rigorous experimental methodology  
+
+with the goal of building intrusion detection systems that remain reliable in evolving, imbalanced, real-world environments.
+
+---
+
+📍 Poland  
+🔗 LinkedIn: https://linkedin.com/in/nurlanisazade  
+📝 Medium: https://medium.com/@nurlanisazade
