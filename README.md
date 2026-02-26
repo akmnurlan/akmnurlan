@@ -21,14 +21,6 @@ Research focus: behavioural anomaly detection under distribution shift.
 Semi-supervised intrusion detection via latent regime change modelling under extreme class imbalance and behavioural drift.  
 🔗 https://github.com/akmnurlan/latent-behavioural-anomaly-detection  
 
-### Concept Drift Detection (Rolling KS-Test)  
-Interpretable streaming drift detection using nonparametric statistical testing.  
-🔗 https://github.com/akmnurlan/concept-drift-detection  
-
-### Reproducible ML Experiments  
-Config-driven experimental framework for structured, deterministic ML evaluation.  
-🔗 https://github.com/akmnurlan/reproducible-ml-experiments  
-
 ---
 
 ## Publications
